@@ -13,7 +13,7 @@ export function Welcome() {
         </Text>
       </Title>
       <Text color="dimmed" align="center" size="lg" sx={{ maxWidth: 580 }} mx="auto" mt="xl">
-       test gpt automate detection welcome 2
+       test gpt automate detection welcome 3
         <Anchor href="https://mantine.dev/theming/next/" size="lg">
           this guide
         </Anchor>
